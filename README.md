@@ -1,4 +1,4 @@
-# Molecular Dynamics and Density Functional Theory Assigments from the course NE 452
+# Molecular Dynamics and Density Functional Theory Assignments from the course NE 452
 
 ## A1452Q1 
 - Evaluates partition function for a single harmonic oscillator.
